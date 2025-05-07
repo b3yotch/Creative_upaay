@@ -38,6 +38,8 @@ then embeddings of chunks were created using 'gemini-embedding-exp-03-07' and th
     The top-ranked passages are passed along with the query to Gemini 1.5 Pro for answer synthesis. The system:
     
     Generates a detailed yet student-friendly response.
+
+Link of project: https://colab.research.google.com/drive/1itskD00gtjHFFFgTpCZgmTWTUwAAHS3V?usp=sharing
     
     Includes  article title and source URL along with relevance score.
     
